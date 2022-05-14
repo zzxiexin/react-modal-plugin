@@ -1,0 +1,10 @@
+.custome_modal_box {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 1px 3px 8px rgb(26 26 26 /50%);
+    align-items: center;
+    justify-content: center;
+  }
+  
